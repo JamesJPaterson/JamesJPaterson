@@ -22,8 +22,14 @@ Full-Stack Software Engineer, Makers Academy - November 2022 - March 2023
 
 Technical Recruiter, BlackCode - July 2022 - November 2022
 
-* Worked with a diverse range of clients across various areas of the tech industry, demonstrating strong problem-solving skills, attention to detail, and * the ability to work well under pressure.
-* Collaborated with teams of developers, designers, and project managers to ensure that products met clients' requirements and were delivered on time and within budget.
+Sure, here's an updated version with more details for your experience at BlackCode:
+
+BlackCode, Reading, Technical Recruiter, July 2022 - November 2022
+
+* As a Technical Recruiter at BlackCode, I worked closely with a diverse range of clients from various industries, from multinational tech consultancies to law firms, to provide end-to-end recruitment solutions. I was responsible for sourcing, screening, and selecting candidates for roles in full-stack software engineering, UI/UX development, solutions architecture, enterprise solutions architecture, QA and testing, Scrum mastering, and more.
+* Working closely with teams of developers, designers, and project managers, I ensured that the products we delivered to our clients met their specific requirements and were delivered on time and within budget. My strong problem-solving skills, attention to detail, and the ability to work well under pressure helped me excel in this role.
+* I also developed an in-depth understanding of the tech industry and the recruitment process, allowing me to source top talent and make strategic matches. 
+* Overall, my experience at BlackCode allowed me to develop a unique set of skills that complement my technical abilities as a full-stack software engineer.
 
 Recruiter, Shirley Parsons - June 2021 - July 2022
 
