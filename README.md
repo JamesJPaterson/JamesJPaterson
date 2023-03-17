@@ -2,8 +2,6 @@
 
 ### About me
 
-Sure, here's a slightly revised version that you may find even better:
-
 Hello, and welcome to my GitHub profile! As a software engineering graduate from Makers Academy, I am a versatile and well-rounded developer with a strong focus on both front-end and back-end development. My skills are particularly strong in Javascript and Ruby, and I have completed numerous projects from scratch, as well as improved upon pre-existing code.
 
 What sets me apart from other developers is my background in recruitment and technology, which has given me exceptional interpersonal skills and a deep understanding of the tech industry. I am passionate about staying on the cutting edge of emerging technologies and currently working on several ongoing projects to enhance my coding abilities.
