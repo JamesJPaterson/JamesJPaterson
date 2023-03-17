@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+About me
+
+A versatile and well-rounded software engineering graduate from Makers Academy, with a strong focus on both front-end and back-end development, particularly in Javascript and Ruby. Possessing valuable experience in recruitment and technology, I have demonstrated exceptional interpersonal skills and a deep understanding of the tech industry. Completed numerous projects from scratch and built upon pre-existing code, staying on the cutting edge of emerging technologies. Currently working on several ongoing projects to enhance my coding abilities and further understanding of the field. Seeking a challenging role in a dynamic and innovative organization to make meaningful contributions to the tech industry while continuing to grow as a software engineer.
+
 <!--
 **JamesJPaterson/JamesJPaterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
