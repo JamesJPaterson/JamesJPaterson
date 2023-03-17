@@ -25,6 +25,20 @@ Recruiter, Shirley Parsons - June 2021 - July 2022
 * Demonstrated the ability to work effectively in isolated environments and the discipline to be self-driven while working remotely from home for 90% of the month.
 * Maintained up-to-date knowledge of industry trends and regulations, ensuring the quality and relevance of all candidate matches.
 
+### Hobbies
+
+American Football
+
+* Started in my first year of university, progressed to social secretary in my second year and Captain which I maintain for 3 years
+* Won several awards over the years from Players Player and the Rocky Award for the most influential player in the society on and off the pitch
+* Since leaving university I have also spent the last two years helping coach the team who are currently unbeaten 
+
+Rock climbing
+
+* Have been an avid rock climber for many years and have continuously kept it up as a form of exercise and stress relief
+
+Other Hobbies include: Musician, Gym goer, Cooking and more!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/james-paterson-092b94244) 
