@@ -8,9 +8,9 @@ Hello, and welcome to my GitHub profile! As a software engineering graduate from
 ### Projects
 
 | Project name | Description | Tech used |
-| --- | --- |
+| --- | --- | --- |
 | StepFreeGigs | A wheelchair accessible venue finder with inbuilt disabled friendly routing | React.js, Node.js, MongoDB, Express.js with 4 different API calls |
-| git diff | Show file differences that haven't been staged | |
+
 
 StepFreeGigs - a wheelchair accessible venue finder with inbuilt disabled friendly routing
 
