@@ -9,7 +9,7 @@ Hello, and welcome to my GitHub profile! As a software engineering graduate from
 
 | Project name | Description | Tech used |
 | --- | --- | --- |
-| StepFreeGigs | A wheelchair accessible venue finder with inbuilt disabled friendly routing | Javascript, React, Node, MongoDB, Express and jest with 4 seperate API calls |
+| [StepFreeGigs](https://github.com/tmccoy99/StepFreeGigs) | A wheelchair accessible venue finder with inbuilt disabled friendly routing | Javascript, React, Node, MongoDB, Express and jest with 4 seperate API calls |
 | AceBook | A React based social media projects where users can make profiles, post, comment and like on both of the above | MongoDB, React, Node.js, Express, Cypress, Jest |
 | MakersBnB | An AirBnB clone where users can postand book rooms depending on location and price | Ruby, HTML, CSS, Active Record, RSpec |
 
