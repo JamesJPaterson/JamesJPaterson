@@ -52,7 +52,7 @@ Other Hobbies include: Musician, Gym goer, Cooking and more!
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/james-paterson-092b94244) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/james-paterson-092b94244)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JamesJPaterson&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
